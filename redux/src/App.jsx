@@ -5,8 +5,8 @@ function App() {
   return (
     <div>
       <>
-        <Login />
         <Profile />
+        <Login />
       </>
     </div>
   );
